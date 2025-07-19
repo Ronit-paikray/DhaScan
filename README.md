@@ -77,7 +77,7 @@ Follow these steps to set up DhaScan on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/DhaScan.git
+   git clone https://github.com/Ronit-paikray/DhaScan.git
    cd DhaScan
    ```
 
